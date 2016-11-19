@@ -1,0 +1,1 @@
+I made it so then when you had your mouse over the title it would highlight yellow, also so it would automatically open when the mouse was over the title. It then closes when it is not being hovered over.
